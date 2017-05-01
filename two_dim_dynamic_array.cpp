@@ -1,4 +1,4 @@
-/* Create a two dimensions dynamic array.
+/* Create a two dimensional dynamic array.
 
 	date 2017/05/02
 	version 1
